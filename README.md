@@ -1,5 +1,5 @@
 # Ecoleta
-stacks =["Nodejs", "SqlLite", "ReactJS", "Javascript","HTML5", "CSS"]
+
 
 
 
