@@ -1,4 +1,9 @@
 # Ecoleta
+stacks =["Nodejs", "SqlLite", "ReactJS", "Javascript","HTML5", "CSS"]
+
+
+
+
 Esse projeto tem como principal objetivo cadastrar pontos de coleta de lixo reciclavel, não tem fins lucrativos
 só para estudo adquirir conhecimento, API Restfull e pagina dinamica
 as stacks utilizadas são: <br>
